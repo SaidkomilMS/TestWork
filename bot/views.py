@@ -25,5 +25,4 @@ def index(request):
 				chat_id,
 				"Привет!"
 			)
-			
 	return HttpResponse('ok')
