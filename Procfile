@@ -1,1 +1,1 @@
-web : gunicorn zadanie.wsgi
+web : gunicorn zadanie.wsgi --log-file
